@@ -1,7 +1,7 @@
 ### Hi there, it is Kyrylo here 👋
 
 - 🔭 I’m currently working on my own blog about self-taught programming! 
-- 🌱 I’m currently learning C++ and Data visualization with Python.
+- 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on Web design for my blog.
 
 #### 👨🏻‍💻 Languages and Tools <br />
