@@ -20,8 +20,10 @@ I'm a programmer from Belgium.
  
 
 #### ✨ Contacts ✨ <br />
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<code><img height="80" href="https://www.linkedin.com/in/kyrylo-kalinichenko/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+<code><img height="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
+
 <!--
 **KyryloKalinichenko/KyryloKalinichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
