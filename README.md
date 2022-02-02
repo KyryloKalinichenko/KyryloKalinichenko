@@ -2,8 +2,9 @@
 
 
 
+![Дизайн без названия](https://user-images.githubusercontent.com/64800542/152230804-c91c35a8-edb2-48b4-8fdb-cc91023efe88.gif)
 
-https://user-images.githubusercontent.com/64800542/152230062-9a97c591-c30d-4e55-a4f5-48e49b56af0d.mp4
+
 
 
 - 🔭 I’m currently looking for an internship! 
