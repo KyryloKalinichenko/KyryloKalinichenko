@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently loking for an internship! 
 - 🌱 I’m currently learning C++ and AWS.
+
 ![soulja-boy-pepe](https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif)
 
 
