@@ -2,9 +2,6 @@
 
 
 
-![Дизайн без названия](https://user-images.githubusercontent.com/64800542/152230804-c91c35a8-edb2-48b4-8fdb-cc91023efe88.gif)
-
-
 ![soulja-boy-pepe](https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif)
 
 
