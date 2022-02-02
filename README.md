@@ -1,6 +1,5 @@
 ### Hi there, it is Kyrylo here 👋
 
-I'm a programmer from Belgium.
 
 - 🔭 I’m currently loking for an internship! 
 - 🌱 I’m currently learning C++ and AWS.
