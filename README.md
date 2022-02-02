@@ -7,7 +7,7 @@ I'm a programmer from Belgium.
 
 <code><p align="center"><img height="200" src="https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif"></p></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyryloKalinichenko&layout=compact)](https://github.com/KyryloKalinichenko)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=KyryloKalinichenko)](https://github.com/KyryloKalinichenko)
  
 #### 👨🏻‍💻 Languages and Tools I love!<br />
   <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
