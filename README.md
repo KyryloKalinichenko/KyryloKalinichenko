@@ -1,6 +1,12 @@
 ### Hi there, it is Kyrylo here 👋
 
-- 🔭 I’m currently working on my own blog about self-taught programming! 
+
+
+
+https://user-images.githubusercontent.com/64800542/152230062-9a97c591-c30d-4e55-a4f5-48e49b56af0d.mp4
+
+
+- 🔭 I’m currently looking for an internship! 
 - 🌱 I’m currently learning C++.
 
 #### 👨🏻‍💻 Languages and Tools <br />
