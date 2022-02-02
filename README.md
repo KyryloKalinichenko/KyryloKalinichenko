@@ -5,7 +5,8 @@
 ![Дизайн без названия](https://user-images.githubusercontent.com/64800542/152230804-c91c35a8-edb2-48b4-8fdb-cc91023efe88.gif)
 
 
-![Дизайн без названия-1](https://user-images.githubusercontent.com/64800542/152231560-0cabf6c6-0f0f-474e-9c76-a63ad0a2ebb3.gif)
+![soulja-boy-pepe](https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif)
+
 
 
 - 🔭 I’m currently looking for an internship! 
