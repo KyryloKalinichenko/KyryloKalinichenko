@@ -5,7 +5,7 @@ I'm a programmer from Belgium.
 - 🔭 I’m currently loking for an internship! 
 - 🌱 I’m currently learning C++ and AWS.
 
-<code><img align="center" height="200" src="https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif"></code>
+<code><p align="center"><img height="200" src="https://user-images.githubusercontent.com/64800542/152231979-e6738985-93d7-440d-a0bb-dc185cec1ff4.gif"></p></code>
 
 
 
