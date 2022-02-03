@@ -22,7 +22,7 @@
 
 #### ✨ Contacts ✨ <br />
 
-<code><img height="40" href="https://www.linkedin.com/in/kyrylo-kalinichenko/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+<code><a href="https://www.linkedin.com/in/kyrylo-kalinichenko/"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
 <code><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code>
 <code><a href="https://www.hackerrank.com/kirillstomper"><img height="40" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a></code>
 
