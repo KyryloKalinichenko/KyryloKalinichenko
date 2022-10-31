@@ -1,9 +1,6 @@
 ### Hi there, it is Kyrylo here 👋
 
 
-- 🔭 I’m currently loking for an internship! 
-- 🌱 I’m currently learning C++ and AWS.
-
 
 
  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=KyryloKalinichenko)](https://github.com/KyryloKalinichenko)
