@@ -1,12 +1,6 @@
 ### Hi there, it is Kyrylo here 👋
 
 
-
-
- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=KyryloKalinichenko)](https://github.com/KyryloKalinichenko)
- 
-
-
  
 #### 👨🏻‍💻 Languages and Tools I love!<br />
   <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
